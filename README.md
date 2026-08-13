@@ -42,3 +42,6 @@ The dataset is divided into several logical groups: Customer Information, Servic
 | **Total Charges** | The total amount the customer has paid over their entire account lifetime. |
 | **Churn Category** | The broader category explaining why the customer churned (e.g., Competitor, Attitude, Price). |
 | **Churn Reason** | The specific, detailed reason for the customer's churn (e.g., "Competitor made better offer"). |
+
+## Dashboard
+
