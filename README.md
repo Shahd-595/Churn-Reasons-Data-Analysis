@@ -45,3 +45,6 @@ The dataset is divided into several logical groups: Customer Information, Servic
 
 ## Dashboard
 
+<p align="center">
+  <img src="dashboard.jpg" alt=" Churn Dashboard" width="100%">
+</p>
