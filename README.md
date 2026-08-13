@@ -4,7 +4,7 @@ This project analyzes customer data from a telecommunications company to underst
 
 ## Dataset Overview
 
-- **Total Rows (Customers):** 7,043 (including header) / ~7,042 data rows
+- **Total Rows (Customers):** 7,042
 - **Total Columns (Features):** 39
 
 ## Column Descriptions
