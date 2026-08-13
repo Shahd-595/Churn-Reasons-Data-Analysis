@@ -4,7 +4,6 @@ This project analyzes customer data from a telecommunications company to underst
 
 ## Dataset Overview
 
-- **File Name:** `Databel - Data.csv`
 - **Total Rows (Customers):** 7,043 (including header) / ~7,042 data rows
 - **Total Columns (Features):** 39
 
