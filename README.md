@@ -49,17 +49,21 @@ The dataset is divided into several logical groups: Customer Information, Servic
   <img src="churn1.jpg" alt=" Churn Dashboard" width="100%">
 </p>
 
+
 <p align="center">
   <img src="churn2.jpg" alt=" Churn Dashboard" width="100%">
 </p>
+
 
 <p align="center">
   <img src="churn3.jpg" alt=" Churn Dashboard" width="100%">
 </p>
 
+
 <p align="center">
   <img src="churn4.jpg" alt=" Churn Dashboard" width="100%">
 </p>
+
 
 <p align="center">
   <img src="churn5.jpg" alt=" Churn Dashboard" width="100%">
